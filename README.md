@@ -32,6 +32,7 @@ Follow these instructions to run imgwelcome:
 1. open *terminal* > *npm install*
 2. Add a node modules
     * `npm install discord.js`
+    * `npm i -S hydrabolt/discord.js`
 
 
 ## Configuration
