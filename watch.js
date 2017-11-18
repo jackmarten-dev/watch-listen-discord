@@ -11,7 +11,7 @@ client.on('ready',  () => {
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag} !`);
-        LOka.user.setActivity("you",{type: 'WATCHING'});
+        client.user.setActivity("you",{type: 'WATCHING'});
 
 });
 
