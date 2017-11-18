@@ -12,7 +12,7 @@ client.on('ready',  () => {
 
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag} !`);
-        LOka.user.setActivity("Your Mom Moaing",{type: 'LISTENING'});
+        client.user.setActivity("Your Mom Moaing",{type: 'LISTENING'});
 
 });
 
